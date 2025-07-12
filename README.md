@@ -32,20 +32,6 @@ You’ll see “MOV AX, 3D_ENGINE” next to a rotating cube, a live FPS counter
 - **Live Stats**  
   - FPS, vertex & edge count, current rotation angle  
 
----
-
-## 🚀 Live Demo
-
-[View it in action »](https://your‑username.github.io/3d‑wireframe‑assembly/)
-
----
-
-## 📁 Source Code
-
-[github.com/your‑username/3d‑wireframe‑assembly](https://github.com/your‑username/3d‑wireframe‑assembly)
-
----
-
 ## 🛠 Installation & Usage
 
 1. **Clone the repo**  

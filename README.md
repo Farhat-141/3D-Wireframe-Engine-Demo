@@ -1,4 +1,3 @@
-````markdown
 # 3D Wireframe Engine (Assembly‑Style)
 
 A retro‑themed, browser‑based **3D wireframe renderer** written in JavaScript, styled and documented like an x86 assembly program.  
@@ -53,7 +52,6 @@ You’ll see “MOV AX, 3D_ENGINE” next to a rotating cube, a live FPS counter
    ```bash
    git clone https://github.com/your‑username/3d‑wireframe‑assembly.git
    cd 3d‑wireframe‑assembly
-````
 
 2. **Open** `simple.html` in your browser (no build step required).
 3. **Controls**:
